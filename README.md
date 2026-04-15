@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isha Bhatt</h1>
+<h1 align="center">Hi, I'm Isha Bhatt 👋</h1>
 <p align="center">
   <strong>Senior QA Engineer • Test Automation Architect • Senior SDET</strong><br>
 </p>
@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-Passionate about elevating software quality through strategic test engineering, I specialize in building **robust test automation frameworks**, driving **end-to-end quality initiatives**, and leading/mentoring **high-performing QA teams**. I’ve delivered complex enterprise solutions across domains, driving **efficiency, quality, and scale**.
+I’m a Senior SDET / QA Automation Engineer focused on improving software quality through **test automation architecture**, **end-to-end quality engineering**, and **scalable validation strategies**. I’ve delivered enterprise-grade solutions across multiple domains and have led and mentored QA teams to improve **quality, efficiency, and release confidence**.
 
 My background spans:
 
@@ -23,11 +23,7 @@ My background spans:
 - **CI/CD integration** with GitHub Actions, GitLab CI, Jenkins, Azure Pipelines
 - **Cloud and observability** with Docker, Kubernetes, AWS, Azure, GCP, Prometheus, Grafana
 
-I enjoy building frameworks that improve reliability, reduce flaky tests, and give faster feedback to engineering teams.
-
-I led QA efforts for cloud-hosted applications and worked closely with DevOps, developers, and product teams to drive quality throughout the SDLC. I’ve worked in Agile/DevOps environments and have experience with tools like Docker, Kubernetes, k6, JMeter, and managing testing infrastructure in AWS and Azure.
-
- I am passionate about **scalable automation**, **high-quality software delivery**, and **continuous improvement**.
+I enjoy building reliable frameworks that reduce flaky tests, strengthen release quality, and provide faster feedback to engineering teams.
 
 ---
 
@@ -72,18 +68,11 @@ I led QA efforts for cloud-hosted applications and worked closely with DevOps, d
 ---
 
 ## 🏆 Career Highlights
-
-- ✅ Achieved **90% automation coverage** by transforming a manual QA process into a streamlined, scalable automated framework.
-- ✅ **Designed and implemented automation frameworks** using PyTest, Robot Framework, and Selenium across diverse application stacks — web, mobile, and API.
-- ✅ **Led and mentored QA teams** across projects with high technical complexity and tight delivery timelines.
-- ✅ **Integrated automation suites into CI/CD pipelines** using Jenkins, GitHub Actions, and Azure Pipelines — enabling rapid feedback and shift-left testing.
-- ✅ Created **custom test reporting utilities** that analyzed Robot Framework and JUnit XML outputs to classify test cases for rerun/debug/fail/pass outcomes.
-- ✅ Provided QA solutions integrated with **third-party tools** like Salesforce, Auth0, PDF validators, JIRA, and email/SMS notification systems.
-- ✅ Spearheaded testing for **video surveillance, manufacturing audit platforms, and Android/iOS devices**, ensuring reliability under varied environments.
-- ✅ Built automation for **install/upgrade verification**, **distributed systems**, and **cloud-hosted platforms** (Docker, Kubernetes, AWS).
-- ✅ Delivered multiple client-facing solutions
-- ✅ Championed QA governance by establishing **test planning standards**, **code review protocols**, and **cross-team quality metrics**.
-
+- Designed and scaled **UI, API, backend, and performance automation frameworks** for enterprise SaaS platforms.
+- Increased automation coverage from **~10% to ~90%**, significantly improving release confidence.
+- Improved test efficiency by **~40%** and reduced incident detection time by **~30%** through stronger automation and observability.
+- Integrated automated validation into **CI/CD pipelines** using GitHub Actions, GitLab CI, Jenkins, and Azure Pipelines.
+- Drove quality engineering across cross-functional teams with focus on **test strategy, release readiness, and scalable automation**.
 
 ---
 
