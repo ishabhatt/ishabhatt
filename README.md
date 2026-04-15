@@ -5,7 +5,7 @@
 
 ---
 
-- [Portfolio](https://portfolio-ishas-projects-4f69c9bb.vercel.app/)
+- [Portfolio](https://ishabhatt-portfolio-4f69c9bb.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/isha-dalwadi-bhatt/)
 - [GitHub](https://github.com/ishabhatt)
 
